@@ -29,6 +29,6 @@ This project predicts student exam scores based on study-related features such a
 
 ---
 
-🔎 This project demonstrates the difference between **Linear Regression** and **Polynomial Regression** when applied to student performance prediction.
+ This project demonstrates the difference between **Linear Regression** and **Polynomial Regression** when applied to student performance prediction.
 
 
